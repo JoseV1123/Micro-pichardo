@@ -12,7 +12,7 @@
 /*  Matricula: 2022-1143                                   */
 /*  Seccion:   jueves                                      */
 /*  Practica:  Maquina de estado                           */
-/*  Fecha:     06/12/2022                                  */
+/*  Fecha:     14/11/2024                                  */
 /***********************************************************/
 
 // Incluyendo Bibliotecas
